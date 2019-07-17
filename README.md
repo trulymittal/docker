@@ -12,6 +12,7 @@ This is how a typical Dockerfile looks like
 
 FROM node:latest
 
+
 # In order to launch our nodejs code, we must import it into our image.
 # We use the keyword 'COPY' to do that.
 # The first parameter 'app.js' is the name of the file on the host.
@@ -19,6 +20,7 @@ FROM node:latest
 # Here we put the file at the image root folder.
 
 COPY app.js /
+
 
 # We need to define the command to launch when we are going to run the image.
 # We use the keyword 'CMD' to do that.
