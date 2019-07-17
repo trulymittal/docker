@@ -57,7 +57,7 @@ Thats all you need to do, to run this basic example.
 
 ## Authors
 
-* **Truly Mittal** - [trulymittal.com](https://trulymittal.com)
+* [**Truly Mittal**](https://trulymittal.com)
 
 ## License
 
