@@ -2,8 +2,6 @@
 
 A very beginner friendly Dockerfile, to help you get started.
 
-### Example Dockerfile
-
 This is how a typical Dockerfile looks like
 
 ```
@@ -37,13 +35,19 @@ Step 1: Clone to repo
 git clone https://github.com/trulymittal/begin_with_docker.git
 ```
 
-Step 2: Build the docker image
+Step 2: cd into the repo
+
+```
+cd begin_with_docker
+```
+
+Step 3: Build the docker image
 
 ```
 docker build -t name-of-image-your-choice .
 ```
 
-Step 2: Run the docker container from the image
+Step 4: Run the docker container from the image
 
 ```
 docker run name-of-image-your-choice
