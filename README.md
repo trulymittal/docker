@@ -34,7 +34,7 @@ CMD [ "node", "app.js" ]
 Step 1: Clone to repo
 
 ```
-git clone https://github.com/trulymittal/begin_with_docker.git
+git clone https://github.com/trulymittal/docker.git
 ```
 
 Step 2: cd into the repo
