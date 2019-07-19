@@ -4,7 +4,7 @@ A very beginner friendly Dockerfile, to help you get started.
 
 This is how a typical Dockerfile looks like
 
-```
+```dockerfile
 # A dockerfile must always start by importing the base image.
 # We use the keyword 'FROM' to do that.
 # In our example, we want import the node image.
