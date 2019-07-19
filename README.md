@@ -40,7 +40,7 @@ git clone https://github.com/trulymittal/docker.git
 Step 2: cd into the repo
 
 ```
-cd begin_with_docker
+cd docker
 ```
 
 Step 3: Build the docker image
